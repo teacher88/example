@@ -62,6 +62,12 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
 ## 9. 이미지 넣기
 ![펭수 이미지](./pengsoo.png)
 
+<table>
+    <tr>
+      <td>가</td>
+    <tr>
+</table>
+
 
 
 
