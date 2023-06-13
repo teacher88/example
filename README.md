@@ -53,6 +53,13 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
 </script>
 ~~~ 
 
+```
+<script>
+  let a=10;
+  let b=20;
+</script>
+```
+
 ## 8. 링크주소
 <http://www.multicampus.com>
 
