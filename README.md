@@ -36,7 +36,7 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
 4. pull
 5. 현업하기 
 
-## 5. 순서목록
+## 5. 순서 없는 목록
 1. 원격저장소
 2. push, pull
 
@@ -58,6 +58,8 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
 [멀티캠퍼스](http://www.multicampus.com)
 
 [멀티캠퍼스](http://www.multicampus.com, "클릭하면 멀티캠퍼스 홈페이지로 이동합니다.")
+
+## 9. 이미지 넣기
 
 
 
