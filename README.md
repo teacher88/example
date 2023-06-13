@@ -62,7 +62,7 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
 ## 9. 이미지 넣기
 ![펭수 이미지](./pengsoo.png)
 
-![펭수 이미지](./pengsoo.png) (http://www.multicampus.com>)
+![펭수 이미지](./pengsoo.png)(http://www.multicampus.com>)
 
 
 
