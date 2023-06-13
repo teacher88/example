@@ -65,6 +65,7 @@ push <br> pull <br><br> 원격저장소 <br><br><br> pull
 <table>
     <tr>
       <td>가</td>
+      <td>나</td>
     <tr>
 </table>
 
